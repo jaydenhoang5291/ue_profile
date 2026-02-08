@@ -85,8 +85,8 @@ npm start
 5. Update UE Profile
 6. Delete UE Profile
 7. Search UE Profile by SUPI
-11. Logout
-12. 
+8. Logout
+
 ## Step 3: Explain each field of UE Profile
 1. IMSI: The IMSI (International Mobile Subscriber Identity) of the UE, including MCC (Mobile Country Code), MNC (Mobile Network Code), and MSISDN (mobile phone number). It is used to uniquely identify the UE in the mobile network.
 
